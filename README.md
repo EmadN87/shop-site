@@ -29,11 +29,16 @@ This project is a modern and responsive frontend template for an e-commerce webs
 
 ## 📂 Project Structure
 ├── index.html # Main web page file
+
 ├── src/
 │ ├── output.css # Tailwind CSS generated output file (final styles)
+
 │ └── script.js # JavaScript file for interactions (e.g., mobile menu)
+
 ├── image/
+
 │ └── headphone.jpg # Sample image used in the hero section
+
 └── README.md # This documentation file
 
 ## 🤝 Contributing

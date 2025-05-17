@@ -6,7 +6,6 @@ This project is a modern and responsive frontend template for an e-commerce webs
 
 ## 🔗 Live Demo
 
-You can view the website live via GitHub Pages here:  
 👉 [https://shop-audio.netlify.app/](https://shop-audio.netlify.app/)
 
 ## 🌟 Features

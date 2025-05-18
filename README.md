@@ -2,7 +2,7 @@
 
 This project is a modern and responsive frontend template for an e-commerce website specializing in audio equipment. It's built using HTML, Tailwind CSS, and a bit of JavaScript for basic interactions like the mobile menu.
 
-[Preview](image/screenshot.png)
+![Screenshot of the page](image/screenshot.png)
 
 ## 🔗 Live Demo
 

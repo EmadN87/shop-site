@@ -63,12 +63,17 @@ Libraries:
 
 ```bash
 shop-site/
-├── 📄 index.html        # Main entry point
+├── 📄 index.html 
+├── 📄 .gitignore
+├── 📄 LICENSE
 ├── 📁 src/
-│   ├── output.css       # Compiled Tailwind CSS
-│   └── script.js        # Core JavaScript
-├── 📁 image/           # Asset directory
-└── 📄 README.md        # Documentation
+│   ├── input.css
+│   ├── output.css
+│   └── script.js 
+├── 📁 image/
+│   ├── headphone.jpg
+│   └── screenshot.png
+└── 📄 README.md 
 ```
 
 ## ⚙️ Installation
@@ -112,6 +117,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**[⭐ Star this repo](https://github.com/username/shop-site)** if you find it helpful!
+**[⭐ Star this repo](https://github.com/emadn87/shop-site)** if you find it helpful!
 
 </div>

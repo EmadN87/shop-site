@@ -4,7 +4,7 @@
 
 ![Store Preview](image/screenshot.png)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/xxxxx/deploy-status)](https://shop-audio.netlify.app)
+
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/username/shop-site/releases)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
@@ -75,7 +75,7 @@ shop-site/
 
 ```bash
 # Clone repository
-git clone https://github.com/username/shop-site.git
+git clone https://github.com/emadn87/shop-site.git
 
 # Navigate to project
 cd shop-site
@@ -109,12 +109,6 @@ We welcome contributions! Here's how:
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📞 Contact & Support
-
-- **Website:** [www.example.com](http://www.example.com)
-- **Email:** support@example.com
-- **Twitter:** [@example](https://twitter.com/example)
 
 <div align="center">
 

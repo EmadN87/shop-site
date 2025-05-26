@@ -15,7 +15,7 @@ A modern, responsive e-commerce template specializing in premium audio equipment
 
 ## 🚀 Live Demo
 
-Experience the site live at [shop-audio.netlify.app](https://shop-audio.netlify.app)
+Experience the site live at 👉 [Click me](https://shop-audio.netlify.app)
 
 ## 🎯 Key Features
 
